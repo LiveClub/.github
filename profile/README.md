@@ -1,5 +1,5 @@
 ## LiveClub
-This file is still empty.
+_Rehumanize social digital interactions_
 
 <!--
 
