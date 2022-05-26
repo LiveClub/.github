@@ -1,2 +1,2 @@
 # LiveClub
-_"Add strange slogan down here"_
+_"To humanize digital social interactions binding Social network, metaverse and crypto"_
