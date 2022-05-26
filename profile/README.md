@@ -1,5 +1,5 @@
 ## LiveClub
-_Rehumanize social digital interactions_
+_To rehumanize social digital interactions by binding Social network, Metaverse and crypto_
 
 <!--
 
